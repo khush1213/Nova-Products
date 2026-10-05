@@ -1,0 +1,6 @@
+{
+  "name": "NOVA PRODUCTS - Product Catalogue & Showcase",
+  "description": "Premium digital product catalogue and showcase featuring complete specifications, pack sizes, MRP, and pricing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
